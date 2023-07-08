@@ -1,2 +1,2 @@
 # first_project
-first_projects Supakorn
+first_projects Supakorn Kanjana
